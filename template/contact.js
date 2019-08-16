@@ -6,9 +6,7 @@ document.write('\
                 <div class="col-lg-12 text-center"> \
                     <h2 class="section-heading text-uppercase">Contact Us</h2> \
                     <h3 class="section-subheading" style="color: white">Want to join? Shoot us an email!<br>Everybody is welcome!</h3> \
-                    <h3 class="section-subheading" style="color: white"> SLACK <br> Join! </h3> \
                     <h3 class="section-subheading" style="color: white"> Mailinglist <br> Subscribe! </h3> \
-                    <h3 class="section-subheading" style="color: white"> GitHub <br> Contribute! </h3> \
                 </div> \
             </div> \
             <div class="row"> \
