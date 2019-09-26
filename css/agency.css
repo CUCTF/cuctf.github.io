@@ -609,6 +609,9 @@ header.masthead .intro-text .intro-heading {
     margin-top: 0;
 }
 
+section#partners {
+    background-color: #212529;
+}
 section#contact {
     background-color: #212529;
     background-image: url("../img/columbia_logo.png");

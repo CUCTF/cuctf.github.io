@@ -40,14 +40,19 @@ document.write('\
         </div>\
     </nav>\
 \
-    <!-- Header -->\
+\
     <header class="masthead">\
-        <div class="container">\
-            <div class="intro-text">\
-                <div class="intro-lead-in">Columbia University</div>\
-                <div class="intro-heading text-uppercase">Cyber Security Practice &amp; Capture the Flag</div>\
-                <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#contact">Join Us!</a>\
-            </div>\
-        </div>\
+\
+    <!-- Header -->\
+        <section class="page-top-section set-bg" style="height:355px" data-setbg="img/bg2.png">\
+                <div class="page-info">\
+                        <h2>Contact</h2>\
+                        <div class="site-breadcrumb">\
+                                <a href="">Home</a>	\
+                                <span> / Contact</span>\
+                        </div>\
+                </div>\
+        </section>\
+\
     </header>\
 ');
