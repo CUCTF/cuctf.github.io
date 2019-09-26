@@ -2,7 +2,7 @@ document.write('\
 <!-- contact --> \
         <section id="partners">\
             <div class="col-lg-12 text-center"> \
-            <h2 class="section-heading text-uppercase">Partners</h2>\
+            <h2 class="section-heading text-white text-uppercase">Partners</h2>\
 \
             <div class="clients">\
                 <div class="row">\
@@ -48,16 +48,14 @@ document.write('\
                 <div class="col-lg-12 text-center"> \
                     <h2 class="section-heading text-uppercase">Contact Us</h2> \
                     <h3 class="section-subheading" style="color: white">Want to join? Shoot us an email!<br>Everybody is welcome!</h3> \
-                    <h3 class="section-subheading" style="color: white"> Mailinglist <br> Subscribe! </h3> \
+\
+                        <div class="footer-social d-flex justify-content-center" style="font-size:24px">\
+                                <a href="#"><i class="fa fa-facebook" style="font-size:24px"></i></a>\
+                                <a href="#"><i class="fa fa-github" style="font-size:24px"></i></a>\
+                                <a href="#"><i class="fa fa-slack" style="font-size:24px"></i></a>\
+                        </div>\
                 </div> \
             </div> \
-\
-                        <div class="footer-social d-flex justify-content-center">\
-                                <a href="#"><i class="fa fa-twitter"></i></a>\
-                                <a href="#"><i class="fa fa-github"></i></a>\
-                                <a href="#"><i class="fa fa-slack"></i></a>\
-                        </div>\
-\
             <div class="row"> \
                 <div class="col-lg-12"> \
                     <div class="row"> \
@@ -65,12 +63,14 @@ document.write('\
                         <div class="col-lg-12 text-center"> \
                             <!--<div id="success"></div>--> \
                             <a href="mailto:dennis.r@columbia.edu &subject=WP%20Contact"> \
-				<button class="btn btn-primary btn-xl text-uppercase" type=""> Send Message </button> </a> \
+				<button class="btn btn-primary btn-xl text-uppercase" type=""> Subscribe to Mailinglist </button> </a> \
                         </div> \
                     </div> \
                     <!--</form>--> \
                 </div> \
             </div> \
+\
+\
 \
         </div> \
     </section> \
