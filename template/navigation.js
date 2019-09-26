@@ -26,9 +26,11 @@ document.write('\
                     <li class="nav-item">\
                         <a class="nav-link js-scroll-trigger" href="#contact"></a>\
                     </li>\
+                    <li class="nav-item">\
+                        <a class="nav-link js-scroll-trigger" href="#contact">Contact</a>\
+                    </li>\
 <div class="header-social d-flex justify-content-end">\
-                                <p>Follow us:</p>\
-                                <a href="#"><i class="fa fa-twitter"></i></a>\
+                                <a href="#"><i class="fa fa-facebook"></i></a>\
                                 <a href="https://github.com/cuctf"><i class="fa fa-github"></i></a>\
                                 <a href="https://cucyber.slack.com"><i class="fa fa-slack"></i></a>\
                                 <a href="https://calendar.google.com/calendar/embed?src=columbia.edu_6k55l1c1q870ihnvgqke6t01nk%40group.calendar.google.com&ctz=America%2FNew_York"><i class="fa fa-calendar"></i></a>\
@@ -39,18 +41,4 @@ document.write('\
     </nav>\
 \
 \
-    <header class="masthead">\
-\
-    <!-- Header -->\
-        <section class="page-top-section set-bg" style="height:355px" data-setbg="img/bg2.png">\
-                <div class="page-info">\
-                        <h2>Contact</h2>\
-                        <div class="site-breadcrumb">\
-                                <a href="">Home</a>	\
-                                <span> / Contact</span>\
-                        </div>\
-                </div>\
-        </section>\
-\
-    </header>\
 ');
