@@ -2,7 +2,9 @@ document.write('\
 <!-- navigation -->\
     <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">\
         <div class="container">\
-            <a class="navbar-brand js-scroll-trigger" href="index.html">CUCyber</a>\
+	<a class="navbar-brand js-scroll-trigger" href="index.html">\
+		<img src="img/logo.png" alt="" style="height: 40px; margin-top: -2.5%">\
+	</a>\
             <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">\
           Menu\
           <i class="fa fa-bars"></i>\
@@ -13,16 +15,13 @@ document.write('\
                         <a class="nav-link js-scroll-trigger" href="team.html">Team</a>\
                     </li>\
                     <li class="nav-item">\
-                        <a class="nav-link js-scroll-trigger" href="sylabus.html">2019 Sylabus</a>\
+                        <a class="nav-link js-scroll-trigger" href="skilllabs.html">2019 Skill Labs</a>\
                     </li>\
                     <li class="nav-item">\
                         <a class="nav-link js-scroll-trigger" href="resources.html">Resources</a>\
                     </li>\
                     <li class="nav-item">\
                         <a class="nav-link js-scroll-trigger" href="projects.html">Projects</a>\
-                    </li>\
-                    <li class="nav-item">\
-                        <a class="nav-link js-scroll-trigger" href="blog.html">Blog</a>\
                     </li>\
                     <li class="nav-item">\
                         <a class="nav-link js-scroll-trigger" href="#contact">Contact</a>\
