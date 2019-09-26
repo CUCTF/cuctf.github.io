@@ -51,6 +51,13 @@ document.write('\
                     <h3 class="section-subheading" style="color: white"> Mailinglist <br> Subscribe! </h3> \
                 </div> \
             </div> \
+\
+                        <div class="footer-social d-flex justify-content-center">\
+                                <a href="#"><i class="fa fa-twitter"></i></a>\
+                                <a href="#"><i class="fa fa-github"></i></a>\
+                                <a href="#"><i class="fa fa-slack"></i></a>\
+                        </div>\
+\
             <div class="row"> \
                 <div class="col-lg-12"> \
                     <div class="row"> \
