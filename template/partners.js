@@ -8,7 +8,7 @@
                     <div class="col-md-3 col-sm-6 client">
                         <figure>
                           <a  href="https://www.confiant.com/">
-                            <img src="images/partners/confiant.png">
+                            <img src="img/confiant_logo.png">
                           </a>
                         </figure>
                     </div>
@@ -16,7 +16,7 @@
                     <div class="col-md-3 col-sm-6 client">
                         <figure>
                           <a  href="https://www.redballoonsecurity.com/">
-                            <img src="images/partners/redballoon.png">
+                            <img src="img/rbs-logo.png">
                           </a>
                         </figure>
                     </div>
