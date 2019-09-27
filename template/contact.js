@@ -2,11 +2,14 @@ document.write('\
 <!-- contact --> \
         <section id="partners">\
             <div class="col-lg-12 text-center"> \
-            <h2 class="section-heading text-white text-uppercase">Partners</h2>\
-\
-            <div class="clients">\
-                <div class="row">\
-                    <!-- client -->\
+            <h2 class="section-heading text-white text-uppercase">Powered by\
+                          <a  href="https://www.redballoonsecurity.com/">\
+                            <img src="img/rbs-logo.png">\
+                          </a>\
+		</h2> \
+            <div class="clients justify-content-center" style="padding: 0px 20%>\
+                <div class="row text-center">\
+                    <!-- client \
                     <div class="col-md-3 col-sm-6 client">\
                         <figure>\
                           <a  href="https://www.confiant.com/">\
@@ -14,19 +17,10 @@ document.write('\
                           </a>\
                         </figure>\
                     </div>\
-                    <!-- client -->\
                     <div class="col-md-3 col-sm-6 client">\
                         <figure>\
                           <a  href="https://www.mwrinfosecurity.com/">\
                             <img src="img/f-logo-mwr.png">\
-                          </a>\
-                        </figure>\
-                    </div>\
-                    <!-- client -->\
-                    <div class="col-md-3 col-sm-6 client">\
-                        <figure>\
-                          <a  href="https://www.redballoonsecurity.com/">\
-                            <img src="img/rbs-logo.png">\
                           </a>\
                         </figure>\
                     </div>\
@@ -38,9 +32,10 @@ document.write('\
                           </a>\
                         </figure>\
                     </div>\
-                </div>\
+                --></div>\
             </div>\
-            </section>\
+      </div>\
+</section>\
 \
     <section id="contact"> \
         <div class="container"> \
