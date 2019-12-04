@@ -27,7 +27,7 @@ document.write('\
                         <a class="nav-link js-scroll-trigger" href="#contact">Contact</a>\
                     </li>\
                 <div class="header-social d-flex justify-content-end">\
-                                <a href="#"><i class="fa fa-facebook"></i></a>\
+                                <a href="https://www.facebook.com/groups/cucyber/"><i class="fa fa-facebook"></i></a>\
                                 <a href="https://github.com/cuctf"><i class="fa fa-github"></i></a>\
                                 <a href="https://cucyber.slack.com"><i class="fa fa-slack"></i></a>\
                                 <a href="https://calendar.google.com/calendar/embed?src=columbia.edu_6k55l1c1q870ihnvgqke6t01nk%40group.calendar.google.com&ctz=America%2FNew_York"><i class="fa fa-calendar"></i></a>\

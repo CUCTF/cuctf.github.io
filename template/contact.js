@@ -45,9 +45,9 @@ document.write('\
                     <h3 class="section-subheading" style="color: white">Want to join? Shoot us an email!<br>Everybody is welcome!</h3> \
 \
                         <div class="footer-social d-flex justify-content-center" style="font-size:24px">\
-                                <a href="#"><i class="fa fa-facebook" style="font-size:24px"></i></a>\
-                                <a href="#"><i class="fa fa-github" style="font-size:24px"></i></a>\
-                                <a href="#"><i class="fa fa-slack" style="font-size:24px"></i></a>\
+                                <a href="https://www.facebook.com/groups/cucyber/"><i class="fa fa-facebook" style="font-size:24px"></i></a>\
+                                <a href="https://github.com/CUCTF"><i class="fa fa-github" style="font-size:24px"></i></a>\
+                                <a href="https://cucyber.slack.com"><i class="fa fa-slack" style="font-size:24px"></i></a>\
                         </div>\
                 </div> \
             </div> \
@@ -57,7 +57,7 @@ document.write('\
                         <div class="clearfix"></div> \
                         <div class="col-lg-12 text-center"> \
                             <!--<div id="success"></div>--> \
-                            <a href="mailto:dennis.r@columbia.edu &subject=WP%20Contact"> \
+                            <a href="https://lists.cs.columbia.edu/mailman/listinfo/cucyber"> \
 				<button class="btn btn-primary btn-xl text-uppercase" type=""> Subscribe to Mailinglist </button> </a> \
                         </div> \
                     </div> \
