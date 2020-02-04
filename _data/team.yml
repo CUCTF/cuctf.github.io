@@ -1,0 +1,43 @@
+description: >-
+  We have so much fun together.
+  Our Alumni successfully entered the job market at companies like Google, VISA, and Red Balloon Security, or pursue their PhD at top tier Universities.
+
+photos:
+  - title: CyberForce Competition 2019
+    path: team/cyberforce/hotel1.jpg
+    description: Hacking at the hotel
+
+  - title: Hardware Hacking Workshop 2019
+    path: team/hwhacking/hw2.jpg
+    description: We are hacking something
+
+  - title: PicoCTF 2019
+    path: team/picoctf/pico3.jpg
+    description: Not even Pizza can distract us
+
+  - title: CyberForce Competition 2019
+    path: team/cyberforce/car2.jpg
+    description: Driving there!
+
+  - title: TechTalks 2019
+    path: team/yaketihack/yaketi1.jpg
+    description: Learning many new stuff.
+
+  - title: CyberForce Competition 2019
+    path: team/cyberforce/hotel2.jpg
+    description: In the hotel, no time for sleeping
+
+  - title: Hardware Hacking Workshop 2019
+    path: team/hwhacking/hw3.jpg
+    description: Learning from each other
+
+  - title: CyberForce Competition 2019
+    path: team/cyberforce/group.jpg
+    description: Group picture
+
+sponsors:
+  - name: Columbia University
+    logo: logos/columbia_logo.png
+
+  - name: Red Balloon Security
+    logo: logos/rbs-logo.png
