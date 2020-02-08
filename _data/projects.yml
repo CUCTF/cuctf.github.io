@@ -1,0 +1,23 @@
+description: Develop your own hacky solution for any of the following topics
+
+areas:
+  - name: Rogue access point
+    image: projects/rogueap.jpg
+    description: The Raspberry Pi and Kali Linux are a perfect platform to homenbrew a Hak5 Pineapple style Man-in-the-Middle WiFi Network. For educational purposes, of course!
+
+  - name: WEP/WPA Hacking
+    image: projects/wpa2.jpg
+    description: We all know that WEP and WPA (1) are depricated. In this project you can find out why, by breaking in to a real (but unsufficiently secured) WiFi Network. You heard about KRAck against WPA2? Could be next!
+
+  - name: Intrusion Detection/ SIEM
+    image: projects/ids.png
+    description: Monitoring network traffic like a real CSO? Get yourself familiar with Snort/Surricata, AlienVault and others and deploy them in a real network!
+
+  - name: Email Encryption
+    image: projects/email.png
+    description: WhatsApp got hacked, Facebook eavesdrops your messages. Why is message encryption so difficult? Learn about PGP and set up an infrastructure for Email Encryption.
+
+  - name: Bug Hunter
+    image: projects/bug.png
+    description: Fuzzing, Taint, Symbolic Execution? How are security vulnerabilities found in real software? Use our resources to run AFL, Valgrind, etc.
+
