@@ -1,23 +1,33 @@
 description: We have achieved amazing things together!
 
 events:        
+  - name: Back in Campus!
+    date: Sep 2021
+    image: story/1.jpg
+    description: We are back, and stronger than ever! The team is looking forward to the upcoming CTF season and in-person meetings.
+  
+  - name: Going Virtual
+    date: March 2020 - Aug 2021
+    image: story/3.jpg
+    description: Even the pandemic didn't stop us from holding hacking workshops and competing together!
+
   - name: Cyberforce Competition
     date: Dec 2019
-    image: story/3.jpg
+    image: story/2.jpg
     description: The team's first large-scale on-site competition in which they had to serve as a Blueteam for an enterprise network - scoring 60th best team in the country.
 
   - name: picoCTF
     date: Sep - Oct 2019
-    image: story/1.jpg
+    image: story/4.jpg
     description: We had 5 teams of students compete in the Carnegie Mellon based CTF, one team placing in the top 5%, while all others were in the top 10%.
 
   - name: CUCyber
     date: Jan 2019
-    image: story/4.jpg
+    image: story/5.jpg
     description: As the original group graduated, the newer memebers took over and decided to expand the team into a community on campus.
 
   - name: MuddGulch
     date: Sep 2018
-    image: story/1.jpg
+    image: story/6.jpg
     description: Three close friends created Columbia's originial CTF team named "MuddGulch"
     
