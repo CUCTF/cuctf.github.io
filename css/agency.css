@@ -491,12 +491,12 @@ header.masthead .intro-text .intro-heading {
 }
 
 #teamCarousel .carousel-caption {
-  bottom:-70px;
+  bottom:-50px;
 }
 
 #teamCarousel .carousel-inner {
   padding: 10px;
-  padding-bottom: 70px;
+  /*padding-bottom: 70px;*/
   }
 
 section#contact {
@@ -548,5 +548,40 @@ ul.social-buttons li a {
   height: 50px;
   color: white;
   background-color: #212529;
+}
+
+.board-member-image{
+  width:100px;
+  height:100px;
+}
+
+ul.the-board li {
+  text-align:center;
+  width:150px;
+  height:175px;
+  padding:5px;
+  margin:5px;
+  display:inline-block;
+}
+
+ul.the-board {
+  min-width:400px;
+  max-width:800px;
+}
+
+.carousel-item {
+  width:100%;
+  height:100%;
+  text-align:center;
+}
+
+.carousel-caption-custom {
+  color:#fff;
+  width:400px;
+  height:250px;
+  margin:0px auto;
+  padding: 5px;
+  padding-top:25px;
+  text-align:center;
 }
 

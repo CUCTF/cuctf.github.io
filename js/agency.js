@@ -39,4 +39,8 @@
   // Collapse the navbar when page is scrolled
   $(window).scroll(navbarCollapse);
 
+  $(function() {
+    $(window).scrollTop($('#club').offset().top);
+  });
+
 })(jQuery); // End of use strict

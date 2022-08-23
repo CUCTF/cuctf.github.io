@@ -15,9 +15,17 @@ For details about how to do this in your operating system, check [Jekyll Install
 
 3. Build the site and make it available on a local server by running:
 
-`bundle exec jekyll serve`
+`bundle exec jekyll serve --livereload --host=127.0.0.1`
 
-4. Check the webpage at http://localhost:4000.
+4. Check the webpage at http://127.0.0.1:4000.
+
+### Docker Version
+
+Alternatively, use docker. From within the root directory, run:
+
+`docker-compose up`
+
+The live preview will be available in the same url as listed before. 
 
 ### Modify the webpage's content
 

@@ -1,39 +1,36 @@
-description: >-
-  We have so much fun together.
-  Our Alumni successfully entered the job market at companies like Google, VISA, and Red Balloon Security, or pursue their PhDs at top tier Universities.
+description: The club is sustained by the dedicated effort of our board. We hold annual elections and fill out-of-cycle vacancies as they occur. 
 
-photos:
-  - title: CyberForce Competition 2019
-    path: team/cyberforce/hotel1.jpg
-    description: Hacking at the hotel
+board_members:
+  - title: President
+    path: user-large.svg 
+    name: Andreas Kellas
 
-  - title: Hardware Hacking Workshop 2019
-    path: team/hwhacking/hw2.jpg
-    description: We are hacking something
+  - title: Vice-President
+    path: user-large.svg
+    name: Vacant
 
-  - title: PicoCTF 2019
-    path: team/picoctf/pico3.jpg
-    description: Not even Pizza can distract us
+  - title: Treasurer
+    path: user-large.svg
+    name: Adam Storek
 
-  - title: CyberForce Competition 2019
-    path: team/cyberforce/car2.jpg
-    description: Driving there!
+  - title: Communications
+    path: user-large.svg
+    name: Lola Seibert
 
-  - title: TechTalks 2019
-    path: team/yaketihack/yaketi1.jpg
-    description: Learning many new stuff.
+  - title: Training Officer
+    path: user-large.svg
+    name: Lynsey Haynes
 
-  - title: CyberForce Competition 2019
-    path: team/cyberforce/hotel2.jpg
-    description: In the hotel, no time for sleeping
+  - title: Secretary
+    path: user-large.svg
+    name: Dawson Franz
 
-  - title: Hardware Hacking Workshop 2019
-    path: team/hwhacking/hw3.jpg
-    description: Learning from each other
+  - title: Training Officer
+    path: user-large.svg
+    name: Ben Allison
 
-  - title: CyberForce Competition 2019
-    path: team/cyberforce/group.jpg
-    description: Group picture
+
+
 
 sponsors:
   - name: Columbia University
