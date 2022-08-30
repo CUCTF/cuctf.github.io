@@ -1,0 +1,10 @@
+version: '3'
+services:
+  jekyll-app:
+    build:
+      context: .
+    ports:
+      - "${LISTEN_PORT:-26040}:4000"
+    volumes:  
+      - .:/app
+

@@ -1,0 +1,17 @@
+title: CUCyber @ Columbia
+subtitle: Columbia University's student-led computer security organization. 
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+description: >- # this means to ignore newlines until "nexttag:"
+  Columbia University's student organization CUCyber webpage.
+name: CUCyber
+mailinglist: https://lists.cs.columbia.edu/mailman/listinfo/cucyber
+calendar: https://calendar.google.com/calendar/b/1/embed?src=columbia.edu_6k55l1c1q870ihnvgqke6t01nk@group.calendar.google.com&ctz=America/New_York
+meetings: Thursdays 7:00 PM - 8:30 PM @CS Lounge 
+
+# Supported social media
+twitter: cucyberlions
+github: cuctf
+slack: cucyber
+
+plugins:
+  - jekyll-feed

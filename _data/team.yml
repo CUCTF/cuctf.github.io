@@ -1,0 +1,40 @@
+description: The club is sustained by the dedicated effort of our board. We hold annual elections and fill out-of-cycle vacancies as they occur. 
+
+board_members:
+  - title: President
+    path: user-large.svg 
+    name: Andreas Kellas
+
+  - title: Vice-President
+    path: user-large.svg
+    name: Vacant
+
+  - title: Treasurer
+    path: user-large.svg
+    name: Adam Storek
+
+  - title: Communications
+    path: user-large.svg
+    name: Lola Seibert
+
+  - title: Training Officer
+    path: user-large.svg
+    name: Lynsey Haynes
+
+  - title: Secretary
+    path: user-large.svg
+    name: Dawson Franz
+
+  - title: Training Officer
+    path: user-large.svg
+    name: Ben Allison
+
+
+
+show_sponsors: False
+sponsors:
+  - name: Columbia University
+    logo: logos/columbia_logo.png
+
+  - name: Red Balloon Security
+    logo: logos/rbs-logo.png

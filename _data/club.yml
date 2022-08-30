@@ -1,0 +1,25 @@
+description: 
+  - CUCyber is Columbia University's computer security student organization. It is an inclusive community for students, faculty, and affiliates to explore computer security practice and research, regardless of skill or security experience. 
+  
+  - We hold weekly meetings, compete in security competitions, host guest speakers, and facilitate job hiring workshops within the computer security industry. 
+  
+  - Our meetings take place throughout the academic year every Thursday evening at 7pm both in-person and over Zoom.  
+
+# search for new icons at: https://fontawesome.com/icons
+areas:
+  - name: Skill Labs
+    icon: keyboard
+    description: Educational labs with the purpose of teaching practical security skills.
+
+  - name: Policy Discussions
+    icon: comments
+    description: Open discussion of relevant news, policy and events in cyber security.
+
+  - name: Meet the Professionals
+    icon: handshake
+    description: Network and hear about working in the industry from guest speakers.
+
+  - name: CTFs
+    icon: flag-checkered
+    description: Test your skills in red and blue-team Capture The Flag competitions.
+
