@@ -28,6 +28,8 @@ jobs:
       run: mkdir -p public && chmod 777 public
     - name: Build Artifacts
       run: docker run --volume="$(pwd):/app" jekyll-app:latest jekyll build -d public
+    - name: Modify Permissions for Cleanup
+      run: docker run --volume="$(pwd):/app" jekyll-app:latest chmod -R 777 public
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v1
       with:
