@@ -31,7 +31,7 @@ board_members:
 
 
 
-
+show_sponsors: False
 sponsors:
   - name: Columbia University
     logo: logos/columbia_logo.png

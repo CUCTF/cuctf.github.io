@@ -583,5 +583,7 @@ ul.the-board {
   padding: 5px;
   padding-top:25px;
   text-align:center;
+  max-width:100%;
+  word-wrap:anywhere;
 }
 

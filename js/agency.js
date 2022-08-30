@@ -40,7 +40,9 @@
   $(window).scroll(navbarCollapse);
 
   $(function() {
-    $(window).scrollTop($('#club').offset().top);
+    if(window.location.hash == "" || window.location.hash == "#") {
+    	$(window).scrollTop($('#aboutus').offset().top);
+    }
   });
 
 })(jQuery); // End of use strict

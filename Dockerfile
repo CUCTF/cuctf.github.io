@@ -6,4 +6,4 @@ WORKDIR /app
 
 RUN bundle install
 
-CMD bundle exec jekyll serve --livereload --host=0.0.0.0 --force_polling
+CMD bundle exec jekyll serve --host=0.0.0.0
