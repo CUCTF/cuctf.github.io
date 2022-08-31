@@ -31,7 +31,10 @@ jobs:
               gem install jekyll bundler
               bundle install
     - name: Build Artifacts
-      run: bundle exec jekyll build -d public
+      run: |
+              export GEM_HOME="$HOME/gems"
+              export PATH="$HOME/gems/bin:$PATH"
+              bundle exec jekyll build -d public
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v1
       with:
