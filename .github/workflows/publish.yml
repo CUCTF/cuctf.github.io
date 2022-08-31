@@ -24,10 +24,11 @@ jobs:
       uses: actions/checkout@v3
     - name: Get Dependencies
       run: sudo apt-get install ruby-full build-essential zlib1g-dev -y
-    - name: Get Jekyll
+    - name: Ruby Cache
       uses: ruby/setup-ruby@v1
       with:
         bundler-cache: true
+    - name: Get Jekyll
       run: |
               export GEM_HOME="$HOME/gems"
               export PATH="$HOME/gems/bin:$PATH"
