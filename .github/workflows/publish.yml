@@ -25,6 +25,9 @@ jobs:
     - name: Get Dependencies
       run: sudo apt-get install ruby-full build-essential zlib1g-dev -y
     - name: Get Jekyll
+      uses: ruby/setup-ruby@v1
+      with:
+        bundler-cache: true
       run: |
               export GEM_HOME="$HOME/gems"
               export PATH="$HOME/gems/bin:$PATH"
