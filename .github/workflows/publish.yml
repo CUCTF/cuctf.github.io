@@ -23,7 +23,7 @@ jobs:
     - name: Check out code
       uses: actions/checkout@v3
     - name: Get Dependencies
-      run: apt install ruby-full build-essential zlib1g-dev
+      run: sudo apt install ruby-full build-essential zlib1g-dev -y
     - name: Get Jekyll
       run: |
               export GEM_HOME="$HOME/gems"
