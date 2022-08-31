@@ -4,7 +4,7 @@ services:
     build:
       context: .
     ports:
-      - "${LISTEN_PORT:-26040}:4000"
+      - "${LISTEN_PORT:-4000}:4000"
     volumes:  
       - .:/app
 
