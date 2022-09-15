@@ -2,7 +2,7 @@ description: The club is sustained by the dedicated effort of our board. We hold
 
 board_members:
   - title: President
-    path: user-large.svg 
+    path: board/andreas.png
     name: Andreas Kellas
 
   - title: Vice-President
@@ -10,23 +10,23 @@ board_members:
     name: Vacant
 
   - title: Treasurer
-    path: user-large.svg
+    path: board/adam.png
     name: Adam Storek
 
   - title: Communications
-    path: user-large.svg
+    path: board/lola.png
     name: Lola Seibert
 
   - title: Training Officer
-    path: user-large.svg
+    path: board/lynsey.png
     name: Lynsey Haynes
 
   - title: Secretary
-    path: user-large.svg
+    path: board/dawson.png
     name: Dawson Franz
 
   - title: Training Officer
-    path: user-large.svg
+    path: board/ben.png
     name: Ben Allison
 
 
