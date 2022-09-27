@@ -17,17 +17,26 @@ board_members:
     path: board/lola.png
     name: Lola Seibert
 
-  - title: Training Officer
-    path: board/lynsey.png
-    name: Lynsey Haynes
+  - title: Recruiting
+    path: board/gabbie.png
+    name: Gabriela Gonzalez
+
+  - title: Internship and Hiring
+    path: board/lyna.png
+    name: Ly Na Nguyen
 
   - title: Secretary
     path: board/dawson.png
     name: Dawson Franz
 
-  - title: Training Officer
+  - title: Training
     path: board/ben.png
     name: Ben Allison
+
+  - title: Training
+    path: user-large.svg
+    name: Vacant
+
 
 
 

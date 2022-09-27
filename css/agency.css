@@ -558,10 +558,16 @@ ul.social-buttons li a {
 ul.the-board li {
   text-align:center;
   width:150px;
-  height:175px;
+  height:200px;
   padding:5px;
   margin:5px;
   display:inline-block;
+  vertical-align:top;
+}
+
+ul.the-board li div.subheading {
+  height:50px;
+  min-height:50px;
 }
 
 ul.the-board {

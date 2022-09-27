@@ -1,17 +1,12 @@
 events:
-  - title: Semester Kickoff Meeting
-    description: Join us as we kick off the semester in our first club meeting!
-    date: 15 Sep 2022
-
-  - title: Offsite Club Meeting
-    description: Join us for a special offsite event. RSVP required, see details in slack. 
-    date: 21 Sep 2022
-  
   - title: Beginner Night
     description: Our next beginner night will introduce you to the Linux command line and include a short primer for the git version control system.
     date: 29 Sep 2022
 
   - title: SekaiCTF 2022
-    description: Compete with the SekaiCTF 2022 Capture the Flag security competition. 
+    description: Compete with us in the SekaiCTF 2022 Capture the Flag security competition. 
     date: 30 Sep - Oct 2
 
+  - title: Beginner Night
+    description: Our October beginner night will provide a primer on compiling and debugging a C program.
+    date: 27 Oct 2022
