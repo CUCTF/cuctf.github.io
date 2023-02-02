@@ -1,12 +1,5 @@
 events:
-  - title: Beginner Night
-    description: Our next beginner night will introduce you to the Linux command line and include a short primer for the git version control system.
-    date: 29 Sep 2022
 
-  - title: SekaiCTF 2022
-    description: Compete with us in the SekaiCTF 2022 Capture the Flag security competition. 
-    date: 30 Sep - Oct 2
-
-  - title: Beginner Night
-    description: Our October beginner night will provide a primer on compiling and debugging a C program.
-    date: 27 Oct 2022
+  - title: LA CTF 2023
+    description: Compete with us in the LA CTF Capture the Flag security competition. 
+    date: 10 Feb - 12 Feb 
