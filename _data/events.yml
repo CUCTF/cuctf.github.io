@@ -1,13 +1,5 @@
 events:
-  - title: Guest Speaker - Red Balloon Security
-    description: CU Cyber will host Dr. Ang Cui, Red Balloon Security founder and CEO to speak to the club about his experience in the security industry.
-    date: 23 February 2023
-  - title: Guest Speaker 
-    description: CU Cyber will host a special guest speaker. Join our mailing list for more information
-    date: 2 March 2023
-  - title: RITSEC CTF
-    description: Compete with us in the LA CTF Capture the Flag security competition
-    date: 31 March - 2 April 2023
-  - title: Guest Speaker 
-    description: CU Cyber will host a special guest speaker. Join our mailing list for more information
-    date: 20 April 2023
+  - title: Sample Event
+    description: Event Description
+    date: 31 December 2023
+

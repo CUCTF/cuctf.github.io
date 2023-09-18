@@ -26,12 +26,12 @@ board_members:
     name: Ly Na Nguyen
 
   - title: Secretary
-    path: board/dawson.png
-    name: Dawson Franz
+    path: user-large.svg
+    name: Vacant
 
   - title: Training
-    path: board/ben.png
-    name: Ben Allison
+    path: user-large.svg
+    name: Vacant
 
   - title: Training
     path: board/maya.png
