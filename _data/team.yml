@@ -6,37 +6,40 @@ board_members:
     name: Andreas Kellas
 
   - title: Vice-President
-    path: user-large.svg
-    name: Vacant
+    path: board/izzy.png
+    name: Isabelle Friedfeld-Gebaide
 
   - title: Treasurer
     path: board/adam.png
     name: Adam Storek
 
   - title: Communications
-    path: board/lola.png
-    name: Lola Seibert
+    path: board/caroline.png
+    name: Caroline Somers
 
   - title: Recruiting
-    path: board/gabbie.png
-    name: Gabriela Gonzalez
+    path: board/hacker.png
+    name: Austin Tobey
 
-  - title: Internship and Hiring
-    path: board/lyna.png
-    name: Ly Na Nguyen
+  - title: Corporate Engagement
+    path: board/hacker.png
+    name: Michelle Zhou
 
   - title: Secretary
-    path: user-large.svg
-    name: Vacant
+    path: board/hacker.png
+    name: Emily Soto
 
-  - title: Training
-    path: user-large.svg
-    name: Vacant
+  - title: Historian
+    path: board/jacob.png
+    name: Jacob Randall
 
-  - title: Training
-    path: board/maya.png
-    name: Maya Shkolnik
+  - title: Presentations
+    path: board/hacker.png
+    name: Divya Khatri
 
+  - title: Competitions
+    path: board/hacker.png
+    name: Dylan Tran
 
 
 
