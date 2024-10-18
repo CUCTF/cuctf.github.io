@@ -2,12 +2,12 @@ description: The club is sustained by the dedicated effort of our board. We hold
 
 board_members:
   - title: President
-    path: Caroline Somers
-    name: board/caroline_cucyber.jpg
+    path: board/caroline_cucyber.jpg
+    name: Caroline Somers
 
   - title: Vice-President
-    name: board/maya.png
-    path: Maya Shklonik
+    path: board/maya.png
+    name: Maya Shklonik
 
   - title: Treasurer
     path: board/capy.jpg
@@ -18,7 +18,7 @@ board_members:
     name: Michelle Zhou
 
   - title: Recruiting
-    path: board/nicholas_cucyber.jpg
+    path: board/nicholas_cucyber.png
     name: Nicholas Assaderaghi
 
   - title: Corporate Engagement
@@ -26,7 +26,7 @@ board_members:
     name: Andreas Kellas
 
   - title: Secretary
-    path: board/madalina_cucyber.jpg
+    path: board/madlina_cucyber.jpg
     name: Madalina Stoicov
 
   - title: Competition
