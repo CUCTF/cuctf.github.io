@@ -2,40 +2,45 @@ description: The club is sustained by the dedicated effort of our board. We hold
 
 board_members:
   - title: President
+    path: Caroline Somers
+    name: board/caroline_cucyber.jpg
+
+  - title: Vice-President
+    name: board/maya.png
+    path: Maya Shklonik
+
+  - title: Treasurer
+    path: board/capy.jpg
+    name: Annie Wang
+
+  - title: Communications
+    path: board/capy.jpg
+    name: Michelle Zhou
+
+  - title: Recruiting
+    path: board/nicholas_cucyber.jpg
+    name: Nicholas Assaderaghi
+
+  - title: Corporate Engagement
     path: board/andreas.png
     name: Andreas Kellas
 
-  - title: Vice-President
-    path: user-large.svg
-    name: Vacant
+  - title: Secretary
+    path: board/madalina_cucyber.jpg
+    name: Madalina Stoicov
 
-  - title: Treasurer
-    path: board/adam.png
-    name: Adam Storek
+  - title: Competition
+    path: board/capy.jpg
+    name: Denzel Farmer
 
-  - title: Communications
-    path: board/lola.png
-    name: Lola Seibert
-
-  - title: Recruiting
-    path: board/gabbie.png
-    name: Gabriela Gonzalez
-
-  - title: Internship and Hiring
+  - title: Presentation
+    path: board/divya_cucyber.jpg
+    name: Divya Khatri
+ 
+  - title: Historian
     path: board/lyna.png
     name: Ly Na Nguyen
 
-  - title: Secretary
-    path: user-large.svg
-    name: Vacant
-
-  - title: Training
-    path: user-large.svg
-    name: Vacant
-
-  - title: Training
-    path: board/maya.png
-    name: Maya Shkolnik
 
 
 
