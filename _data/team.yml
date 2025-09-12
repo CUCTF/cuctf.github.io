@@ -1,47 +1,46 @@
-description: The club is sustained by the dedicated effort of our board. We hold annual elections and fill out-of-cycle vacancies as they occur. 
+description: The club is sustained by the dedicated effort of our board. We
+  hold annual elections and fill out-of-cycle vacancies as they occur.
 
 board_members:
   - title: President
-    path: board/caroline_cucyber.jpg
-    name: Caroline Somers
-
-  - title: Vice-President
-    path: board/maya.png
-    name: Maya Shklonik
-
-  - title: Treasurer
-    path: board/capy.jpg
+    path: board/annie.jpg
     name: Annie Wang
 
+  - title: Vice-President
+    path: board/madalina.jpg
+    name: Madalina Stoicov
+
+  - title: Treasurer
+    path: board/flora.jpg
+    name: Flora Qiu
+
   - title: Communications
-    path: board/capy.jpg
-    name: Michelle Zhou
+    path: board/angelina.png
+    name: Angelina Yeh
 
   - title: Recruiting
     path: board/nicholas_cucyber.png
     name: Nicholas Assaderaghi
 
   - title: Corporate Engagement
-    path: board/andreas.png
-    name: Andreas Kellas
+    path: board/amit.jpg
+    name: Amit Aharoni
 
   - title: Secretary
-    path: board/madlina_cucyber.jpg
-    name: Madalina Stoicov
+    path: board/capy.jpg
+    name: OPEN
 
   - title: Competition
-    path: board/capy.jpg
-    name: Denzel Farmer
+    path: board/isaac.jpg
+    name: Isaac Trost
 
   - title: Presentation
     path: board/divya_cucyber.jpg
     name: Divya Khatri
- 
+
   - title: Historian
-    path: board/lyna.png
-    name: Ly Na Nguyen
-
-
+    path: board/andreas.png
+    name: Andreas Kellas
 
 
 
