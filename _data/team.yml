@@ -18,6 +18,14 @@ board_members:
     path: board/angelina-resize.png
     name: Angelina Yeh
 
+  - title: Competitions
+    path: board/isaac-resize.jpg
+    name: Isaac Trost
+
+  - title: Presentations
+    path: board/divya-resize.jpg
+    name: Divya Khatri
+
   - title: Recruiting
     path: board/nicholas_cucyber.png
     name: Nicholas Assaderaghi
@@ -26,22 +34,13 @@ board_members:
     path: board/amit.jpg
     name: Amit Aharoni
 
-  - title: Secretary
-    path: board/hacker.png
-    name: OPEN
-
-  - title: Competition
-    path: board/isaac-resize.jpg
-    name: Isaac Trost
-
-  - title: Presentation
-    path: board/divya-resize.jpg
-    name: Divya Khatri
-
   - title: Historian
     path: board/andreas.png
     name: Andreas Kellas
 
+  - title: Secretary
+    path: board/hacker.png
+    name: OPEN
 
 
 show_sponsors: False
