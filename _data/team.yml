@@ -3,19 +3,19 @@ description: The club is sustained by the dedicated effort of our board. We
 
 board_members:
   - title: President
-    path: board/annie.jpg
+    path: board/annie-resize.jpg
     name: Annie Wang
 
   - title: Vice-President
-    path: board/madalina.jpg
+    path: board/madalina-resize.jpg
     name: Madalina Stoicov
 
   - title: Treasurer
-    path: board/flora.jpg
+    path: board/flora-resize.jpg
     name: Flora Qiu
 
   - title: Communications
-    path: board/angelina.png
+    path: board/angelina-resize.png
     name: Angelina Yeh
 
   - title: Recruiting
@@ -27,15 +27,15 @@ board_members:
     name: Amit Aharoni
 
   - title: Secretary
-    path: board/capy.jpg
+    path: board/hacker.png
     name: OPEN
 
   - title: Competition
-    path: board/isaac.jpg
+    path: board/isaac-resize.jpg
     name: Isaac Trost
 
   - title: Presentation
-    path: board/divya_cucyber.jpg
+    path: board/divya-resize.jpg
     name: Divya Khatri
 
   - title: Historian
