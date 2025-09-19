@@ -21,7 +21,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Check out code
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
     - name: Get Dependencies
       run: sudo apt-get install ruby-full build-essential zlib1g-dev -y
     - name: Ruby Cache
@@ -32,7 +32,7 @@ jobs:
     - name: Build Artifacts
       run: bundle exec jekyll build -d public
     - name: Upload artifact
-      uses: actions/upload-pages-artifact@v1
+      uses: actions/upload-pages-artifact@v4
       with:
         path: ./public
   deploy:
@@ -45,5 +45,5 @@ jobs:
     steps:
     - name: Deploy to GitHub Pages
       id: deployment
-      uses: actions/deploy-pages@v1
+      uses: actions/deploy-pages@v4
 
