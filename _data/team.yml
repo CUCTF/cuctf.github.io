@@ -39,8 +39,8 @@ board_members:
     name: Andreas Kellas
 
   - title: Secretary
-    path: board/hacker.png
-    name: OPEN
+    path: board/trisha.jpg
+    name: Trisha Srikanth
 
 
 show_sponsors: False
