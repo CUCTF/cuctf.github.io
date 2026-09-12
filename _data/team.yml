@@ -3,44 +3,44 @@ description: The club is sustained by the dedicated effort of our board. We
 
 board_members:
   - title: President
-    path: board/annie-resize.jpg
-    name: Annie Wang
-
-  - title: Vice-President
     path: board/madalina-resize.jpg
     name: Madalina Stoicov
 
-  - title: Treasurer
+  - title: Vice-President
     path: board/flora-resize.jpg
     name: Flora Qiu
 
+  - title: Treasurer
+    path: board/capy.jpg
+    name: Capy Bara
+
   - title: Communications
-    path: board/angelina-resize.png
-    name: Angelina Yeh
+    path: board/marleny.jpeg
+    name: Marleny Vasquez De Jesus
 
   - title: Competitions
-    path: board/isaac-resize.jpg
-    name: Isaac Trost
+    path: board/seunghyun.jpg
+    name: SeungHyun Sung
 
   - title: Presentations
     path: board/divya-resize.jpg
     name: Divya Khatri
 
   - title: Recruiting
-    path: board/nicholas_cucyber.png
-    name: Nicholas Assaderaghi
+    path: board/capy.jpg
+    name: Tatyana Ilieva
 
   - title: Corporate Engagement
     path: board/amit.jpg
     name: Amit Aharoni
 
   - title: Historian
-    path: board/andreas.png
-    name: Andreas Kellas
+    path: board/isabella.jpg
+    name: Isabella Lam
 
   - title: Secretary
-    path: board/trisha.jpg
-    name: Trisha Srikanth
+    path: board/elizabeth.jpg
+    name: Elizabeth Kushelevsky
 
 
 show_sponsors: False
